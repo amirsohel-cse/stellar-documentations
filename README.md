@@ -194,7 +194,6 @@ Remember to replace `your_server_ip` with the actual IP address of your server. 
 
 Sure, here's a more structured and formatted version of the instructions:
 
-```markdown
 # Desktop Application Setup
 
 ## NPM and Yarn Installations
